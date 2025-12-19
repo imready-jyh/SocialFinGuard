@@ -1,3 +1,9 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+
+# 大文件/数据文件
+data/
+*.csv
+*.zip
+*.tar.gz
